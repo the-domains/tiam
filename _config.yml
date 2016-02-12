@@ -1,0 +1,28 @@
+name: Tiam
+favicon: null
+layout_spectrum: 0.40299805952236056
+typography_spectrum: 0.8628815948031843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3223988732788712
+  lightness: 0.23094844236038625
+  saturation: 0.08890149206854403
+  rhythmicContrast: 0.492162604117766
+purpose: []
