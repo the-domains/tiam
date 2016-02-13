@@ -2,6 +2,7 @@ name: Tiam
 favicon: null
 layout_spectrum: 0.40299805952236056
 typography_spectrum: 0.8628815948031843
+title: tiam
 cta:
   domain: null
   bucket: null
